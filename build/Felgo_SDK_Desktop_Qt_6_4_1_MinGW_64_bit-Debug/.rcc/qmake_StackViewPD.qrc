@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qmldir">D:/StackViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/StackViewPD/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/My_Page.qml">D:/StackViewPD/qml/My_Page.qml</file>
+    <file alias="qml/My_Page.qml">D:/StackViewPD/qml/My_Page.qml</file>
+  </qresource>
+</RCC>
+

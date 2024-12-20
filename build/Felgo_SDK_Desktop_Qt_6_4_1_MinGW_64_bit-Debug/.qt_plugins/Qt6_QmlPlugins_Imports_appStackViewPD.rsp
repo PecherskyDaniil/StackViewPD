@@ -1,0 +1,15 @@
+-rootPath
+D:/StackViewPD
+-cmake-output
+-output-file
+D:/StackViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appStackViewPD.cmake
+-importPath
+D:/StackViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/StackViewPD
+-importPath
+D:/StackViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+D:/StackViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_StackViewPD.qrc
+D:/StackViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_StackViewPD_copy.qrc
+D:/StackViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/appStackViewPD_raw_qml_0.qrc

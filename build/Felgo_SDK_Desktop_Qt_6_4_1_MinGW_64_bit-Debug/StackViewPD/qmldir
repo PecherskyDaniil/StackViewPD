@@ -1,0 +1,6 @@
+module StackViewPD
+typeinfo appStackViewPD.qmltypes
+prefer :/
+My_Page 1.0 qml/My_Page.qml
+My_Page 1.0 qml/My_Page.qml
+
